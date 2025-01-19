@@ -37,7 +37,7 @@
         android:id="@+id/loginBtn"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Login Page"
+        android:text="Login Pagee"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toStartOf="@+id/registerBtn"
         app:layout_constraintHorizontal_bias="0.681"
